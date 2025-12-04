@@ -106,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshmi711git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Lakshmi711git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Lakshmi711git/Leetcode/tree/master/0344-reverse-string) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Lakshmi711git/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Lakshmi711git/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Lakshmi711git/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
