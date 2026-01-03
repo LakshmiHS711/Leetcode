@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi711git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Lakshmi711git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lakshmi711git/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Lakshmi711git/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Queue
 |  |
 | ------- |
